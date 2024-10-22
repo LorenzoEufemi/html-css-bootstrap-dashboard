@@ -1,0 +1,13 @@
+.green_btn {
+    --bs-btn-bg: green;
+}
+
+.yellow_btn {
+    --bs-btn-bg: gold;
+    --bs-btn-border-color: gold;
+}
+
+.red_btn {
+    --bs-btn-bg: red;
+    --bs-btn-border-color: red;
+}
